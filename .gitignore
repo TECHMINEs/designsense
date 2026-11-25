@@ -1,0 +1,6 @@
+# kept locally, not published
+Submission/
+Source material/
+.DS_Store
+__pycache__/
+src/banned.txt
